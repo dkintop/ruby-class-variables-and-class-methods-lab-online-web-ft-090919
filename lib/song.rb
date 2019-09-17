@@ -67,4 +67,4 @@ end
 my_2nd_song = Song.new("stressed out", "twenty one pilots", "punk" )
 my_song = Song.new("despacito", "JB", "pop")
 
-puts Song.artists
+puts Song.artist_count
