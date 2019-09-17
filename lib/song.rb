@@ -64,7 +64,7 @@ class Song
   
 
 end 
-
+my_2nd_song = song.new("stressed out", "twenty one pilots", "punk" )
 my_song = Song.new("despacito", "JB", "pop")
 puts my_song.name
 puts my_song.genre
