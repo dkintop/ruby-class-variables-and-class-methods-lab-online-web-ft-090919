@@ -69,4 +69,4 @@ my_song = Song.new("despacito", "JB", "pop")
 puts my_song.name
 puts my_song.genre
 puts my_song.artist
-puts song.artists
+puts Song.artists
